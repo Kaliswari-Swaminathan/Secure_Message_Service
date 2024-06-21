@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**Created by Kaliswari Swaminathan */
 @SpringBootApplication
-public class SecuredEmployeeDirectoryApplication {
+public class SecuredMessageApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecuredEmployeeDirectoryApplication.class, args);
+		SpringApplication.run(SecuredMessageApplication.class, args);
 	}
 
 }
